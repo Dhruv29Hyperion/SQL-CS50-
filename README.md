@@ -39,7 +39,7 @@ This database is designed for managing information related to crime investigatio
 
 ## ER Diagram
 
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](ER Diagram.png)
 
 ## Views
 1. **crime_info**
